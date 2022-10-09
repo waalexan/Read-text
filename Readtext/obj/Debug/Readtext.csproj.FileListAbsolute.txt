@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Readtext\Readtext\bin\Debug\Readtext.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Readtext\Readtext\bin\Debug\Readtext.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Readtext\Readtext\bin\Debug\Readtext.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Readtext\Readtext\obj\Debug\Readtext.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Readtext\Readtext\obj\Debug\Readtext.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Readtext\Readtext\obj\Debug\Readtext.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Readtext\Readtext\obj\Debug\Readtext.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Readtext\Readtext\obj\Debug\Readtext.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Readtext\Readtext\bin\Debug\Guna.UI.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Readtext\Readtext\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Readtext\Readtext\bin\Debug\Guna.UI2.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Readtext\Readtext\obj\Debug\Readtext.formMain.resources

@@ -1,1 +1,1 @@
-# Read-text
+Leitor de textos offline
